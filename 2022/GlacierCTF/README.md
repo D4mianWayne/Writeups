@@ -166,4 +166,4 @@ There is a mutation named `register_beta_user`, for the initial login request, I
 
 Once done, logging in with the credentials `hello:world` gave the flag:
 
-[](/2022/GlacierCTF/images/flagcoin.png)
+![](images/flagcoin.png)
